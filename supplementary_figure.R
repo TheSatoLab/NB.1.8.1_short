@@ -35,7 +35,7 @@ setwd(dir)
 ########## parameters ##########
 ##general
 core.num <- 4
-variant.ref <-"XEC" #"JN.1" 
+#variant.ref <-"LP.8.1" #"JN.1" 
 
 ##period to be analyzed
 date.start <- as.Date("2024-04-01")
@@ -205,7 +205,7 @@ metadata.filtered.clade <- metadata.filtered.clade %>%
 
 metadata.filtered <- metadata.filtered.clade
 
-variant.ref <-"24F (XEC)" 
+variant.ref <-"25A (LP.8.1)"
 lineage.interest.v <- c("24A (JN.1)","24C (KP.3)","24E (KP.3.1.1)","24F (XEC)","25A (LP.8.1)","NB.1.8.1")
 
 
