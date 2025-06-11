@@ -12,9 +12,9 @@
 # nextclade="/Users/petadimensionlab/apps/nextclade"
 
 ##shirokane
-output_dir="/home/kaho/variant_report"
-input_dir="/home/kaho/variant_monitoring"
-nextclade="/home/kaho/Applications/nextclade"
+output_dir=""
+input_dir=""
+nextclade="nextclade"
 
 ####Set and forget.
 # use multinomial_independent.stan for older stan version
