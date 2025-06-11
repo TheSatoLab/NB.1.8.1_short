@@ -6,11 +6,6 @@
 #$ -q '!mjobs_rerun.q'
 #$ #-o /dev/null
 
-# ##yurinchi
-# output_dir="/Volumes/annin-tofu/2504_NB.1.8.1"
-# input_dir="/Volumes/annin-tofu/variant_monitoring"
-# nextclade="/Users/petadimensionlab/apps/nextclade"
-
 ##shirokane
 output_dir=""
 input_dir=""
